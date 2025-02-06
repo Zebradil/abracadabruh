@@ -1,5 +1,13 @@
 # Changelog
 
+## [4.4.3](https://github.com/mykso/myks/compare/v4.4.2...v4.4.3) (2025-02-06)
+
+
+### Bug Fixes
+
+* **deps:** update module golang.org/x/sync to v0.11.0 ([#393](https://github.com/mykso/myks/issues/393)) ([0afc509](https://github.com/mykso/myks/commit/0afc5094e986823160e66392b111988b0d1ba910))
+* **deps:** update module golang.org/x/term to v0.29.0 ([#394](https://github.com/mykso/myks/issues/394)) ([f3664f1](https://github.com/mykso/myks/commit/f3664f1d8a961d06f8fcdde4e447e27abb0d66ac))
+
 ## [4.4.2](https://github.com/mykso/myks/compare/v4.4.1...v4.4.2) (2025-02-02)
 
 
